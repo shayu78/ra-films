@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bmtvmf9e2e08bxdq?svg=true)](https://ci.appveyor.com/project/shayu78/ra-films)
 Рейтинг фильмов
 ===
 
