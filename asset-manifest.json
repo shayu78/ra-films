@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-films/static/css/main.33346d79.chunk.css",
+    "main.js": "/ra-films/static/js/main.53ebfe47.chunk.js",
+    "main.js.map": "/ra-films/static/js/main.53ebfe47.chunk.js.map",
+    "runtime-main.js": "/ra-films/static/js/runtime-main.42734267.js",
+    "runtime-main.js.map": "/ra-films/static/js/runtime-main.42734267.js.map",
+    "static/js/2.a42c9148.chunk.js": "/ra-films/static/js/2.a42c9148.chunk.js",
+    "static/js/2.a42c9148.chunk.js.map": "/ra-films/static/js/2.a42c9148.chunk.js.map",
+    "static/js/3.8cd98e98.chunk.js": "/ra-films/static/js/3.8cd98e98.chunk.js",
+    "static/js/3.8cd98e98.chunk.js.map": "/ra-films/static/js/3.8cd98e98.chunk.js.map",
+    "index.html": "/ra-films/index.html",
+    "static/css/main.33346d79.chunk.css.map": "/ra-films/static/css/main.33346d79.chunk.css.map",
+    "static/js/2.a42c9148.chunk.js.LICENSE.txt": "/ra-films/static/js/2.a42c9148.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42734267.js",
+    "static/js/2.a42c9148.chunk.js",
+    "static/css/main.33346d79.chunk.css",
+    "static/js/main.53ebfe47.chunk.js"
+  ]
+}
